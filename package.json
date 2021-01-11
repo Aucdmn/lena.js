@@ -1,5 +1,5 @@
 {
-  "name": "lena.js",
+  "name": "Image Processing Platfrom.js",
   "version": "0.8.0",
   "description": "Library for image processing",
   "homepage": "https://github.com/davidsonfellipe/lena-js/",
@@ -52,5 +52,8 @@
     "commitizen": {
       "path": "./node_modules/cz-conventional-changelog"
     }
+  },
+  "dependencies": {
+    "lena.js": "^0.8.0"
   }
 }
